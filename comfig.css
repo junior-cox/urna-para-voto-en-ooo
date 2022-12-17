@@ -1,0 +1,97 @@
+#n{
+background-color: rgb(165, 180, 156);
+position: absolute;
+top:50px;
+left:40px;
+width:380px;
+height:310px;
+}
+h2{
+    background-color: rgb(236, 236, 236);
+    width:800px;
+    height:400px;
+    position: absolute;
+}
+#bot{
+background-color: rgb(32, 31, 31);
+position: absolute;
+top:50px;
+left:450px;
+width:310px;
+height:310px;
+}
+button{
+    margin:10px;
+    width:80px;
+    height:45px;
+    font-size: 20px;
+}
+b1{
+    position: absolute;
+    top:0px;
+}
+b2{
+    position: absolute;
+    top:60px;
+}
+b3{
+    position: absolute;
+    top:120px;
+}
+#b4{
+    position: absolute;
+    top:180px;
+    left:105px;
+}
+com{
+    position: absolute;
+    top:300px;
+    left:460px;
+}
+#tela{
+    width:50%;
+    height:190px;
+}
+#cb1,#cb2,#cb3{
+  width:95px;
+  font-size:17px;
+}
+#cb1{
+    background-color:rgb(255, 255, 255);
+    margin:0px;
+}
+#cb2{
+    background-color: rgb(32, 214, 56);
+    margin:0px;
+}
+#cb3{
+    background-color:orangered;
+    margin:0px;
+}
+#hh1{
+background-color:rgb(177, 177, 206);
+position: absolute;
+top:130px;
+left:300px;
+width:100px;
+height:100px;
+}
+#hh2{
+    position: absolute;
+    top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#iv{
+    width:50%;
+    height:180px;
+}
+#jm{
+width:50%;
+height:165px;
+}
+#hj{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ti{
+    font-family: Arial, Helvetica, sans-serif;
+}
